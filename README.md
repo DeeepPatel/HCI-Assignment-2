@@ -1,4 +1,16 @@
 # HCI-Assignment-2
+This assignment was created using figma to create wireframes for a school app for students.
+
+# Top 5 New Desirable Functionalities
+- Video/Voice communication abilities
+- Map that contains location of the assigned classes
+- Recorded lectures/Tutorials by the professor
+- Tutors available for a specific course
+- School email services
+
+# Links
+Figma - https://www.figma.com/file/mBynOcHo22wHv44sSzFUrs/Deep-Patel-HCI-Assignment-2?node-id=0%3A1
+Video Recording - https://youtu.be/crUZ-cTf4Fo
 
 # Home Page
 ![Homepage](https://user-images.githubusercontent.com/55398707/155912086-5bb0313e-878b-4900-9fa1-b18c469d13e8.png)
@@ -31,4 +43,6 @@ Description:
 
 Description:
  - Chatroom for the selected course
+
+
 
