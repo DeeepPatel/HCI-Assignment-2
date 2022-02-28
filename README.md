@@ -1,5 +1,5 @@
 # HCI-Assignment-2
-This assignment was created using figma to create wireframes for a school app for students.
+This assignment was created using figma to create wireframes for a school app for students. The screenshots are version 2 of the prototype after fixing and making changes to the first prototype from assignment 1
 
 # Top 5 New Desirable Functionalities
 - Video/Voice communication abilities
