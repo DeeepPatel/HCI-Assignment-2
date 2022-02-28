@@ -10,6 +10,7 @@ This assignment was created using figma to create wireframes for a school app fo
 
 # Links
 Figma - https://www.figma.com/file/mBynOcHo22wHv44sSzFUrs/Deep-Patel-HCI-Assignment-2?node-id=0%3A1
+
 Video Recording - https://youtu.be/crUZ-cTf4Fo
 
 # Home Page
