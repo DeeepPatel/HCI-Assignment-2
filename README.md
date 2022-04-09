@@ -45,5 +45,7 @@ Description:
 Description:
  - Chatroom for the selected course
 
+# Final Prototype
+![Final Prototype](https://user-images.githubusercontent.com/55398707/162554193-f3f2cb26-8088-4368-9e9a-cef506efff6b.png)
 
 
